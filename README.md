@@ -30,3 +30,8 @@ Adicionado outra profile pic
 Adicionado versão inglês e português
 
 style.css obsoleto
+
+Documentação finalizada
+
+# V1.3
+Correção de bug no link do Linkedin
